@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fozhan Babaeiyan Ghamsari</h1>
-<h3 align="center">I am a Computer Science Student excited about what technology is headed towards. I am enthusiastic about the Virtual Reality industry.</h3>
+<h3 align="center">I am a Computer Science Student excited about what technology is headed toward. I am enthusiastic about the Virtual Reality industry. I am studying Cybersecurity because I find it fun.</h3>
 
 - 🔭 I’m currently working on **Sudoku Project**
 
