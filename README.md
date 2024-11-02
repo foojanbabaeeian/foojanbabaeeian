@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fozhan Babaeiyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a third-year Computer Science Student in the track of AI and Machine Learning at Cal state Long Beach minoring in Cybersecurity</h3>
 
 - 🔭 I’m currently working on [Geothara Machine Learning Model](https://github.com/geothara-team-1A/geothara-ai-studio)
 
