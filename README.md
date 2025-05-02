@@ -23,12 +23,9 @@
 - Know about my experiences [https://drive.google.com/file/d/1msi-sEa51FTletPq2biuyrK8gS8GRGz3/view?usp=drive_link](https://drive.google.com/file/d/1msi-sEa51FTletPq2biuyrK8gS8GRGz3/view?usp=drive_link)
 
 - Fun fact **I have had 9 dogs at some point. I love to sing, play the piano and write songs.**
-
--
-
-   /)/)
+    /)/)
   ( ˶•༝•)
-୭( づ✿
+୭( づ✿)
 
 
 <h3 align="left">Connect with me:</h3>
