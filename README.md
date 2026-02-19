@@ -2,7 +2,7 @@
 <p align="center"> ⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆ </p>
 <h2 align="center"> فوژان باباییان </h2>
 
-<h3 align="center">I am a senior Computer Science Student in the track of AI and Machine Learning at Cal State Long Beach, minoring in Cybersecurity.</h3>
+<h3 align="center">I am an honor student studying Computer Science at Cal State Long Beach. I am still working at Coding Minds Academy and yes I probably was your TA if you are studying at CSULB. </h3>
 <p align="center">⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆</p>
 
 - I worked on [Geothara Machine Learning Model](https://github.com/geothara-team-1A/geothara-ai-studio) but so many other things that I don't even know which one to showcase here!
