@@ -5,27 +5,27 @@
 <h3 align="center">I am a senior Computer Science Student in the track of AI and Machine Learning at Cal State Long Beach, minoring in Cybersecurity.</h3>
 <p align="center">⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆</p>
 
-- I worked on [Geothara Machine Learning Model](https://github.com/geothara-team-1A/geothara-ai-studio)
+- I worked on [Geothara Machine Learning Model](https://github.com/geothara-team-1A/geothara-ai-studio) but so many other things that I don't even know which one to showcase here!
 
-- I’m currently studying for **CISSP**
+- I’m currently studying for **CISSP** - maybe but I am waiting to hear back from UCI :>
 
-- I am passionate about neuroscience. 
+- I am passionate about neuroscience.
 
 - I’m looking to collaborate on [AI Research Club Mission](https://github.com/CSULBAIResearch)
 
-- I’m looking for help with [A 3D sudoku Game](https://github.com/foojanbabaeeian/3Dsudoku)
+- I’m looking for help with [A 3D sudoku Game](https://github.com/foojanbabaeeian/3Dsudoku) - If anyone is interested in algorithm design and Unity plz reach out. 
 
 - All of my projects are available at [https://github.com/foojanbabaeeian](https://github.com/foojanbabaeeian)
 
 - I regularly write articles on [https://www.linkedin.com/in/fozhan-babaeiyan/](https://www.linkedin.com/in/fozhan-babaeiyan/)
 
-- Ask me about **Machine Learning, Software Engineering, Cybersecurity**
+- Ask me about **Machine Learning, Software Engineering, Cybersecurity or Music**
 
-- How to reach me **babaeeianwork@gmail.com**
+- How to reach me **Fozhan.Babaeiyan@gmail.com**
 
 - Know about my experiences [https://drive.google.com/file/d/1msi-sEa51FTletPq2biuyrK8gS8GRGz3/view?usp=drive_link](https://drive.google.com/file/d/1msi-sEa51FTletPq2biuyrK8gS8GRGz3/view?usp=drive_link)
 
-- Fun fact **I have had 9 dogs at some point. I love to sing, play the piano and write songs.**
+- Fun fact **I have had 9 dogs at some point. I love to sing, play the piano and write songs. I also like to travel and go on hikes.**
 
 ```bash
     /)/)
