@@ -59,9 +59,10 @@ I build things at the intersection of machine learning, algorithms, and software
 
 - [LinkedIn](https://linkedin.com/in/fozhan-babaeiyan)
 
-- [Portfolio](https://fozhan.dev) *(if deployed)*
+- [Portfolio](https://fozhan.dev) 
 
 - Email: Fozhan.Babaeiyan@gmail.com
+- 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fozhan-babaeiyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fozhan-babaeiyan/" height="30" width="40" /></a>
 <a href="https://instagram.com/foojfozh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="foojfozh" height="30" width="40" /></a>
