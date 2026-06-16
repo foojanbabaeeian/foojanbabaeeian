@@ -2,30 +2,52 @@
 <p align="center"> ⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆⋆꙳•̩̩͙❅*̩̩͙‧͙ ‧͙*̩̩͙❆ ͙͛ ˚₊⋆ </p>
 <h2 align="center"> فوژان باباییان </h2>
 
-<h3 align="center">I am an honor student studying Computer Science at Cal State Long Beach. I am still working at Coding Minds Academy and yes I probably was your TA if you are studying at CSULB. </h3>
+<h3 align="center">CS Honors Graduate (CSULB, 4.0 GPA) | Incoming M.S. CS @ UC Irvine (Fall 2026)
+
+I build things at the intersection of machine learning, algorithms, and software engineering — and I publish the research behind them.
+ </h3>
 <p align="center">⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆ ⁺₊❆⋆⋆⁺₊❅⋆</p>
 
-- I worked on [Geothara Machine Learning Model](https://github.com/geothara-team-1A/geothara-ai-studio) but so many other things that I don't even know which one to showcase here!
+## Research & Publications
 
-- I’m currently studying for **CISSP** - maybe but I am waiting to hear back from UCI :>
+- **Honors Thesis:** "Multi-Robot Search & Rescue Algorithms" — CSCSU 2026 (Honorable Mention & Best Paper Nominee). 4 algorithmic models, 5,000 Monte Carlo trials, novel p_i/d² auction. [Live simulator](https://searchfcr.fozhan.dev)
 
-- I am passionate about neuroscience.
+- **CCCG 2026 (under review):** "Pony Express Routing with Heterogeneous Mobile Robots" — O(n²) greedy relay routing, 2-approximation proof, 19K+ benchmarks
 
-- I’m looking to collaborate on [AI Research Club Mission](https://github.com/CSULBAIResearch)
+- **Springer CCIS 2725 (SEET 2025):** "Timed I/O Automata for Humanoid Robot Search" (2nd SRC) & "Language Networks & Cultural Clustering" (3rd SRC)
 
-- I’m looking for help with [A 3D sudoku Game](https://github.com/foojanbabaeeian/3Dsudoku) - If anyone is interested in algorithm design and Unity plz reach out. 
+## What I'm Working On
 
-- All of my projects are available at [https://github.com/foojanbabaeeian](https://github.com/foojanbabaeeian)
+- Preparing for my M.S. at UC Irvine
 
-- I regularly write articles on [https://www.linkedin.com/in/fozhan-babaeiyan/](https://www.linkedin.com/in/fozhan-babaeiyan/)
+- [Pony Express](https://github.com/foojanbabaeeian/pony-express) — multi-robot relay routing research
 
-- Ask me about **Machine Learning, Software Engineering, Cybersecurity or Music**
+- [AI-Innovation](https://github.com/foojanbabaeeian/AI-Innovation) — deepfake audio detection (multi-branch attention fusion)
 
-- How to reach me **Fozhan.Babaeiyan@gmail.com**
+- [TravelerHub](https://github.com/TravelerHub/Travelhub) — full-stack group travel platform (React 19 + FastAPI + Supabase)
 
-- Know about my experiences [https://drive.google.com/file/d/1msi-sEa51FTletPq2biuyrK8gS8GRGz3/view?usp=drive_link](https://drive.google.com/file/d/1msi-sEa51FTletPq2biuyrK8gS8GRGz3/view?usp=drive_link)
+- Teaching Python, C++, Java, and AI/ML at Coding Minds Academy
 
-- Fun fact **I have had 9 dogs at some point. I love to sing, play the piano and write songs. I also like to travel and go on hikes.**
+## Experience
+
+- **ML Intern @ Geothara AI Studio** — geospatial ML pipelines, 92% R² accuracy
+
+- **ISA @ CSULB** — TA for distributed systems, networking, data structures (7 semesters)
+
+- **President & Co-Founder, AI Research Club** — 50+ members, datathon organizer
+
+- **Dean's Leadership Academy Fellow** | 3× ICPC Competitor
+
+## Tech
+
+**Languages:** Python, C++, Java, C#, TypeScript, Haskell, Lua, SQL, R
+
+**ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Pandas, NumPy
+
+**Web:** React/React Native, FastAPI, Flask, Node.js, Supabase, Docker, K8s
+
+**Data:** Tableau, QGIS, GeoPandas, PostgreSQL, MongoDb
+
 
 ```bash
     /)/)
@@ -34,6 +56,12 @@
 ```
 
 <h3 align="left">Connect with me:</h3>
+
+- [LinkedIn](https://linkedin.com/in/fozhan-babaeiyan)
+
+- [Portfolio](https://fozhan.dev) *(if deployed)*
+
+- Email: Fozhan.Babaeiyan@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fozhan-babaeiyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fozhan-babaeiyan/" height="30" width="40" /></a>
 <a href="https://instagram.com/foojfozh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="foojfozh" height="30" width="40" /></a>
