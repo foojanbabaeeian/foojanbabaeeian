@@ -14,7 +14,7 @@ I build things at the intersection of machine learning, algorithms, and software
 
 - **CCCG 2026 (under review):** "Pony Express Routing with Heterogeneous Mobile Robots" — O(n²) greedy relay routing, 2-approximation proof, 19K+ benchmarks
 
-- **Springer CCIS 2725 (SEET 2025):** "Timed I/O Automata for Humanoid Robot Search" (2nd SRC) & "Language Networks & Cultural Clustering" (3rd SRC)
+- **Springer CCIS 2725 (SEET 2025):** "Timed I/O Automata for Humanoid Robot Search" (3rd SRC) & "Language Networks & Cultural Clustering" (2nd SRC)
 
 ## What I'm Working On
 
